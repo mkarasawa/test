@@ -1,0 +1,4 @@
+language: bash
+bash:
+  - 4.3
+script: bash GHOST-test.sh
